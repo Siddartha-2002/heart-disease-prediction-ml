@@ -10,7 +10,4 @@ https://ieee-dataport.org/open-access/heart-disease-dataset-comprehensive
 - XGBoost
 - Artificial Neural Network
 
-## Results
-- Accuracy: ~88%
-- Recall: ~90%
-- ROC-AUC: ~0.92
+
